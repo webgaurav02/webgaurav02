@@ -41,9 +41,9 @@
   <a href="https://www.instagram.com/gaur_.av" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourusername" height="40" width="40" />
   </a>
-  <p>Or, just email me at <a href='mailto:gauravcodes123@gmail.com' target='_blank'>gauravcodes123@gmail.com</a></p>
+  <p align="center">Or, just email me at <a href='mailto:gauravcodes123@gmail.com' target='_blank'>gauravcodes123@gmail.com</a></p>
 </p>
-<p>You could also visit my website <a href='https://gaurav.engineer' target='_blank'>gaurav.engineer</a></p>
+<p align="center">You could also visit my website <a href='https://gaurav.engineer' target='_blank'>gaurav.engineer</a></p>
 <br />
 <h3 align="center">GitHub Stats:</h3>
 <hr />

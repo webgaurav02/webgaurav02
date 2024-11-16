@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! 👋 I'm Gaurav Joshi</h1>
 <h3 align="center">A passionate web developer with a knack for creating seamless user experiences. Building scalable applications one line of code at a time!</h3>
-<div align="center"><a href="https://gaurav.engineer" style='color:black; text-decoration: underline;' target="blank">gaurav.engineer</a>
+<div align="center"><a href="https://gaurav.engineer" target='_blank' style='color:black; text-decoration: underline;' target="blank">gaurav.engineer</a>
 </div>
 <br />
 <div align="center">

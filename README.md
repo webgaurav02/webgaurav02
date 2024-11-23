@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=webgaurav02&theme=flat" alt="Gaurav Joshi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=webgaurav02&theme=onedark&column=4&margin-w=15&margin-h=15)" alt="Gaurav Joshi" />
   </a>
 </p>
 <br />
@@ -48,11 +48,14 @@
 <h3 align="center">GitHub Stats:</h3>
 <hr />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webgaurav02&show_icons=true&count_private=true&hide_title=true&hide=prs" alt="webgaurav02" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webgaurav02&theme=dark" alt="webgaurav02" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webgaurav02&show_icons=true&theme=radical" alt="webgaurav02" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=webgaurav02&theme=dark" alt="webgaurav02" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=webgaurav02&show_icons=true&layout=compact&hide_title=true" alt="webgaurav02" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webgaurav02&layout=compact&theme=radical" alt="webgaurav02" />
 </p>
